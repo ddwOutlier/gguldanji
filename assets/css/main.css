@@ -1,7 +1,7 @@
 /* header */
 #header {
-	background:#FED56B;;
-	margin: 0 auto ;
+	background:#FCD271;;
+	margin: 0;
 	padding: 0;
 	width: 100%;
 	height: 100px;
@@ -12,14 +12,77 @@
 	font-family:unset;
 }
 
+
+/* body */
+#body{
+	margin : 0;
+	padding : 0;
+}
+#body div{
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.rounded1{
+	background: #F78D3F;
+	margin: auto;
+	width: 90%;
+	height: 70px;
+	border-radius: 0.5rem;
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	text-align: center;
+	line-height: 65px;
+	font-size : 25px;
+	font-family:unset;
+}
+
+.rounded3{
+	background: #2BBBD8;
+	margin: auto;
+	width: 90%;
+	height: 70px;
+	border-radius: 0.5rem;
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	text-align: center;
+	line-height: 65px;
+	font-size : 25px;
+	font-family:unset;
+}
+
+.rounded2{
+	background: #E8EDE0;
+	margin: auto;
+	width: 90%;
+	height: 70px;
+	border : 3px solid #d7dbcf;
+	border-radius: 0.5rem;
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	text-align: center;
+	line-height: 65px;
+	font-size : 25px;
+	font-family:unset;
+}
+
 /* footer */
 #footer {
-	background: #978E71;
+	background: #102E37;
 	margin: 0;
 	padding: 0;
 }
 #footer div {
-	margin: 0 auto;
+	margin: 0;
 	overflow: hidden;
 	padding: 0;
 	width: 100%;
