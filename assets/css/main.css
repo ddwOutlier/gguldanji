@@ -44,7 +44,6 @@ a{
 	list-style: none;
 
 	text-align: center;
-	line-height: 60px;
 	font-size : 70px;
 	font-family:Jua;
 }
@@ -58,7 +57,6 @@ a{
 	list-style: none;
 
 	text-align: center;
-	line-height: 60px;
 	font-size : 70px;
 	font-family:Jua;
 }
@@ -72,15 +70,15 @@ a{
 	list-style: none;
 
 	text-align: center;
-	line-height: 60px;
 	font-size : 70px;
 	font-family:Jua;
 }
 
 .rounded1 img, .rounded2 img, .rounded3 img{
 	display: block;
-	margin : auto ;
+	margin : 10px auto ;
 	width : 50%;
+	height : 50%;
 	float : center;
 }
 
