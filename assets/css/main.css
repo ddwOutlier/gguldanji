@@ -1,6 +1,6 @@
 /* header */
 #header {
-	background:#FCD271;;
+	background:#FAC172;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -8,7 +8,7 @@
 
 	text-align: center;
 	line-height: 100px;
-	font-size : 25px;
+	font-size : 70px;
 	font-family:unset;
 }
 
@@ -27,23 +27,7 @@
 }
 
 .rounded1{
-	background: #F78D3F;
-	margin: auto;
-	width: 90%;
-	height: 70px;
-	border-radius: 0.5rem;
-	list-style: none;
-	margin-top: 10px;
-	margin-bottom: 10px;
-
-	text-align: center;
-	line-height: 65px;
-	font-size : 25px;
-	font-family:unset;
-}
-
-.rounded3{
-	background: #2BBBD8;
+	background : #FF8357;
 	margin: auto;
 	width: 90%;
 	height: 70px;
@@ -59,11 +43,44 @@
 }
 
 .rounded2{
-	background: #E8EDE0;
+	background: #E25B45;
 	margin: auto;
 	width: 90%;
 	height: 70px;
-	border : 3px solid #d7dbcf;
+	border-radius: 0.5rem;
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	text-align: center;
+	line-height: 65px;
+	font-size : 25px;
+	font-family:unset;
+}
+
+.rounded3{
+	background: #ADC965;
+	margin: auto;
+	width: 90%;
+	height: 70px;
+	border : 3px;
+	border-radius: 0.5rem;
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	text-align: center;
+	line-height: 65px;
+	font-size : 25px;
+	font-family:unset;
+}
+
+.rounded4{
+	background: #89D5C9;
+	margin: auto;
+	width: 90%;
+	height: 70px;
+	border : 3px ;
 	border-radius: 0.5rem;
 	list-style: none;
 	margin-top: 10px;
@@ -77,7 +94,7 @@
 
 /* footer */
 #footer {
-	background: #102E37;
+	background: #555555;
 	margin: 0;
 	padding: 0;
 }
