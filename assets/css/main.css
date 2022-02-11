@@ -27,7 +27,7 @@
 
 #body div ul li{
 	float:left;
-	margin:20px;
+	margin:0px 20px 20px 0px;
 }
 
 a{
@@ -37,36 +37,57 @@ a{
 
 .rounded1{
 	background: #F3BFBE;
-	margin: 10px;
+	margin: 0px;
 	width: 45%;
 	height: 300px;
 	border-radius: 1rem;
 	list-style: none;
 
 	text-align: center;
-	line-height: 450px;
-	font-size : 80px;
+	line-height: 60px;
+	font-size : 70px;
 	font-family:Jua;
 }
 
 .rounded2{
 	background: #B0C9DF;
-	margin: 10px;
+	margin: 0px;
 	width: 45%;
 	height: 300px;
 	border-radius: 1rem;
 	list-style: none;
 
 	text-align: center;
-	line-height: 450px;
-	font-size : 80px;
+	line-height: 60px;
+	font-size : 70px;
 	font-family:Jua;
 }
 
 .rounded3{
 	background: #F5D473;
-	margin: 10px;
+	margin: 0px;
 	width: 45%;
+	height: 300px;
+	border-radius: 1rem;
+	list-style: none;
+
+	text-align: center;
+	line-height: 60px;
+	font-size : 70px;
+	font-family:Jua;
+}
+
+.rounded1 img, .rounded2 img, .rounded3 img{
+	display: block;
+	margin : auto ;
+	width : 50%;
+	float : center;
+}
+
+.card{
+	background: #fff;
+	margin: 0px;
+	width: 90%;
 	height: 300px;
 	border-radius: 1rem;
 	list-style: none;
@@ -76,7 +97,6 @@ a{
 	font-size : 80px;
 	font-family:Jua;
 }
-
 
 /* footer */
 #footer {
