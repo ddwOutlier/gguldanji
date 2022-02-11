@@ -8,37 +8,21 @@
 
 	text-align: center;
 	line-height: 220px;
-	font-size : 170px;
+	font-size : 150px;
 	font-family:Jua;
 }
 
 /* body */
 #body{
 	margin : 0;
-	padding : 0;
+	padding : 10px;
 }
 #body div{
 	margin: 0;
 	overflow: hidden;
-	padding: 0;
+	padding: 10px;
 	width: 100%;
 	height: 100%;
-}
-
-.rounded1{
-	background : #C2D5CF;
-	margin: auto;
-	width: 90%;
-	height: 150px;
-	border-radius: 1rem;
-	list-style: none;
-	margin-top: 10px;
-	margin-bottom: 10px;
-
-	text-align: center;
-	line-height: 160px;
-	font-size : 100px;
-	font-family:Jua;
 }
 
 a{
@@ -46,39 +30,7 @@ a{
 	color:inherit;
 }
 
-.rounded2{
-	background: #F5D473;
-	margin: auto;
-	width: 90%;
-	height: 150px;
-	border-radius: 1rem;
-	list-style: none;
-	margin-top: 10px;
-	margin-bottom: 10px;
-
-	text-align: center;
-	line-height: 160px;
-	font-size : 100px;
-	font-family:Jua;
-}
-
-.rounded3{
-	background: #B0C9DF;
-	margin: auto;
-	width: 90%;
-	height: 150px;
-	border-radius: 1rem;
-	list-style: none;
-	margin-top: 10px;
-	margin-bottom: 10px;
-
-	text-align: center;
-	line-height: 160px;
-	font-size : 100px;
-	font-family:Jua;
-}
-
-.rounded4{
+.rounded1{
 	background: #F3BFBE;
 	margin: auto;
 	width: 90%;
@@ -90,12 +42,12 @@ a{
 
 	text-align: center;
 	line-height: 160px;
-	font-size : 100px;
+	font-size :80px;
 	font-family:Jua;
 }
 
-.rounded5{
-	background: #CFD3D6;
+.rounded2{
+	background: #B0C9DF;
 	margin: auto;
 	width: 90%;
 	height: 150px;
@@ -106,9 +58,26 @@ a{
 
 	text-align: center;
 	line-height: 160px;
-	font-size : 100px;
+	font-size :80px;
 	font-family:Jua;
 }
+
+.rounded3{
+	background: #F5D473;
+	margin: auto;
+	width: 90%;
+	height: 150px;
+	border-radius: 1rem;
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	text-align: center;
+	line-height: 160px;
+	font-size :80px;
+	font-family:Jua;
+}
+
 
 /* footer */
 #footer {
@@ -139,7 +108,7 @@ a{
 }
 #footer div ul li {
 	display: inside;
-	float: left;
+	float: right;
 	list-style: none;
 	margin: 0 10px;
 	padding: 0;
@@ -154,3 +123,4 @@ a{
     border-radius: 70%;
     overflow: hidden;
 }
+
