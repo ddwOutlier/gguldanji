@@ -82,18 +82,49 @@ a{
 	float : center;
 }
 
+.showstep1{
+    max-height: 300px;
+    overflow: hidden;
+    }
+.showstep2{
+    max-height: 600px;
+    overflow: hidden;
+}
+.content{
+    height: 1000px;
+    background-color: #fff;
+}
+.hide{
+    display: none;
+}
+
 .card{
 	background: #fff;
 	margin: 0px;
 	width: 90%;
-	height: 300px;
+	height: auto;
 	border-radius: 1rem;
 	list-style: none;
 
 	text-align: center;
-	line-height: 450px;
-	font-size : 80px;
+	font-size : 50px;
 	font-family:Jua;
+}
+
+
+.card_detail{
+	background: #F5D473;
+	margin: 10%;
+	width: 90%;
+	height: auto;
+	border-radius: 1rem;
+	list-style: none;
+
+	font-size : 20px;
+}
+
+.card_detail p{
+	line-height: 30px;
 }
 
 /* footer */
