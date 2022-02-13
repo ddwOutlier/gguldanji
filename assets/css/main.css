@@ -114,17 +114,17 @@ a{
 
 .card_detail{
 	background: #F5D473;
-	margin: 10%;
+	margin: auto;
 	width: 90%;
 	height: auto;
 	border-radius: 1rem;
 	list-style: none;
 
-	font-size : 40px;
+	font-size : 70px;
 }
 
 .card_detail p{
-	line-height: 30px;
+	line-height: 100px;
 }
 
 /* footer */
